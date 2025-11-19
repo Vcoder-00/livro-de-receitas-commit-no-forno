@@ -12,6 +12,7 @@ Prepare seus ingredientes, aqueça a criatividade e bora cozinhar! 🍽️✨
 🥗 [Saladas](saladas/)  
 🥩 [Carnes](carnes/)  
 🍰 [Sobremesas](sobremesa/)
+🍹 [Bebidas](bebidas/) 
 
 ---
 
