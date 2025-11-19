@@ -19,3 +19,4 @@ Prepare seus ingredientes, aqueça a criatividade e bora cozinhar! 🍽️✨
 ## 📖 Receitas
 
 [Patinho ao Forno](carnes/patinho-ao-forno.md)
+[File Parmegiana](carnes/file-parmegiana.md)
