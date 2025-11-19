@@ -11,10 +11,11 @@ Prepare seus ingredientes, aqueça a criatividade e bora cozinhar! 🍽️✨
 
 🥗 [Saladas](saladas/)  
 🥩 [Carnes](carnes/)  
-🍰 [Sobremesas](sobremesa/)
+🍰 [Sobremesas](sobremesa/)  
 🍹 [Bebidas](bebidas/) 
 
 ---
 
 ## 📖 Receitas
-*(Esta seção será atualizada conforme novas receitas forem adicionadas.)*  
+
+[Patinho ao Forno](carnes/patinho-ao-forno.md)
