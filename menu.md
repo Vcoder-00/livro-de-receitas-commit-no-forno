@@ -20,4 +20,5 @@ Prepare seus ingredientes, aqueça a criatividade e bora cozinhar! 🍽️✨
 
 [Patinho ao Forno](carnes/patinho-ao-forno.md)  
 [File Parmegiana](carnes/file-parmegiana.md)  
-[Carne acebolada na chapa](carnes/carne-acebolada-na-chapa.md) 
+[Carne acebolada na chapa](carnes/carne-acebolada-na-chapa.md)  
+[Brigadeiro tradicional](sobremesa/brigadeiro-tradicional.md) 
