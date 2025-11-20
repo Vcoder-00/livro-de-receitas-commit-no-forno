@@ -25,3 +25,4 @@ Prepare seus ingredientes, aqueça a criatividade e bora cozinhar! 🍽️✨
 [Pave de maracuja](sobremesa/pave-de-maracuja.md) 
 [saladacommit](saladas/saladamit.md)
 [salada tradicional](saladas/saladaTradicional.md)
+[drink de morango](bebidas/drink-de-morango.md)
