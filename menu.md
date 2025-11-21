@@ -25,4 +25,5 @@ Prepare seus ingredientes, aqueça a criatividade e bora cozinhar! 🍽️✨
 [Pave de maracuja](sobremesa/pave-de-maracuja.md)   
 [Salada gourmet](saladas/saladamit.md)  
 [Salada tradicional](saladas/saladaTradicional.md)  
-[Drink de morango](bebidas/drink-de-morango.md)
+[Drink de morango](bebidas/drink-de-morango.md)\
+[Bloody Mary](bebidas/bloody-mary.md)
