@@ -1,29 +1,39 @@
-# 🍞 Livro de Receitas – Commit no Forno 🔥
+# 🍞 **Livro de Receitas – Commit no Forno** 🔥  
 
-👩‍🍳 **Bem-vindo(a)** ao nosso livro colaborativo de receitas!
-
+👩‍🍳 **Bem-vindo(a)** ao nosso livro colaborativo de receitas!  
 Aqui reunimos pratos deliciosos criados com carinho pela equipe **Commit no Forno**.  
 Prepare seus ingredientes, aqueça a criatividade e bora cozinhar! 🍽️✨  
 
 ---
 
-## 🧂 Categorias
+## 🧂 **Categorias**
 
-🥗 [Saladas](saladas/)  
-🥩 [Carnes](carnes/)  
-🍰 [Sobremesas](sobremesa/)  
-🍹 [Bebidas](bebidas/) 
+- 🥗 **[Saladas](saladas/)**
+- 🥩 **[Carnes](carnes/)**
+- 🍰 **[Sobremesas](sobremesa/)**
+- 🍹 **[Bebidas](bebidas/)**
 
 ---
 
-## 📖 Receitas
+## 📖 **Receitas**
 
-[Patinho ao Forno](carnes/patinho-ao-forno.md)  
-[File Parmegiana](carnes/file-parmegiana.md)  
-[Carne acebolada na chapa](carnes/carne-acebolada-na-chapa.md)  
-[Brigadeiro tradicional](sobremesa/brigadeiro-tradicional.md)  
-[Pave de maracuja](sobremesa/pave-de-maracuja.md)   
-[Salada gourmet](saladas/saladamit.md)  
-[Salada tradicional](saladas/saladaTradicional.md)  
-[Drink de morango](bebidas/drink-de-morango.md)\
-[Bloody Mary](bebidas/bloody-mary.md)
+### 🥩 Carnes
+- [Patinho ao Forno](carnes/patinho-ao-forno.md)  
+- [Filé Parmegiana](carnes/file-parmegiana.md)  
+- [Carne Acebolada na Chapa](carnes/carne-acebolada-na-chapa.md)
+
+### 🍰 Sobremesas
+- [Brigadeiro Tradicional](sobremesa/brigadeiro-tradicional.md)  
+- [Pavê de Maracujá](sobremesa/pave-de-maracuja.md)
+
+### 🥗 Saladas
+- [Salada Gourmet](saladas/saladamit.md)  
+- [Salada Tradicional](saladas/saladaTradicional.md)
+
+### 🍹 Bebidas
+- [Drink de Morango](bebidas/drink-de-morango.md)  
+- [Bloody Mary](bebidas/bloody-mary.md)
+
+---
+
+✨ *Bom apetite e boas contribuições!*
