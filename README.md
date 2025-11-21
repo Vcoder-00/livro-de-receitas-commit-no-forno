@@ -38,3 +38,12 @@ Cada categoria contém receitas escritas em arquivos `.md`, seguindo o modelo de
 | **Mikaelle Barroso** | Contribuidora |
 
 ---
+
+## 📝 Instruções para Contribuir
+
+- Toda nova receita deve ser criada em uma **branch própria**, seguindo o padrão:  
+  `feature/<categoria>-<nome-da-receita>`
+- Cada trabalho inicia com a criação de uma **issue**.
+- Pull Requests devem estar vinculados à issue correspondente.
+- Os PRs precisam de **três aprovações** antes do merge na `main`.
+- Após adicionar uma receita, o arquivo `menu.md` deve ser atualizado.
