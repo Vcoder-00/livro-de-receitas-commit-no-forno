@@ -33,6 +33,7 @@ Prepare seus ingredientes, aqueça a criatividade e bora cozinhar! 🍽️✨
 ### 🍹 Bebidas
 - [Drink de Morango](bebidas/drink-de-morango.md)  
 - [Bloody Mary](bebidas/bloody-mary.md)
+- [Dry Martini (Clássico)](bebidas/dry-martini.md)
 
 ---
 
